@@ -10,7 +10,7 @@
         <projectUrl>http://www.araframework.com.br</projectUrl>
         <requireLicenseAcceptance>true</requireLicenseAcceptance>
         <description>Componente do AraFramework</description>
-        <copyright>Copyright ©  2016</copyright>
+        <copyright>Copyright (c) 2010-2016, Rafael Leonel Pontani. All rights reserved.</copyright>
         <language>pt-BR</language>
         <dependencies>
           <dependency id="Ara2" version="1.2.6.2"  />
@@ -35,7 +35,6 @@
           <dependency id="Ara2.AraTimer" version="1.0.0.1"  />
           <dependency id="Ara2.AraWindow" version="1.0.0.3"  />
           <dependency id="Ara2.Upload" version="1.0.0.0"  />
-          <dependency id="Ara2.AraForeignKey" version="1.0.0.0"  />
         </dependencies>
     </metadata>
     <files>
